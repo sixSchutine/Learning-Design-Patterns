@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+    <DiscountName>strategy.decrease</DiscountName>
+    <MethodName>strategy.Bank</MethodName>
+</config>
+
